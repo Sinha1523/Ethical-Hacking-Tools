@@ -1,2 +1,2 @@
-# Ethical-Hacking-Tools
-Resources for ethical hacking and cybersecurity
+# Ethical-Hacking
+Various types of Project 
